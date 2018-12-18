@@ -3,10 +3,10 @@ import tkinter
 import json
 from tkinter import messagebox
 
-access_token = "937081695538483201-1eFDKVZzsuAGUHkWHfkrTIyt1LFVLY3"
-access_token_secret = "d9GE6sI8Armj5QfDCwL36KPIH6TxKvSSQx8zfrZD6Afyt"
-consumer_key = "GJPM7u5Dk9EwlqOFu5NcJ2jh2"
-consumer_secret = "CVahv7fMA1ldUPbpnHNPkGGk1KjCgPLlUh7cgUCnOgI5yhopQv"
+access_token = 
+access_token_secret = 
+consumer_key = 
+consumer_secret = 
 
 def runSearch(userName):
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
